@@ -1,7 +1,7 @@
 body {
-  background-image: url('../../assets/img/img2.jpg') no-repeat;;
-  background-size: cover;
-  background-blend-mode: lighten;
+  background-image: url('../../assets/img/img2.jpg') no-repeat;
+  background-size: 100% 100%;
+  background-blend-mode: screen;
   background-color: gray;
 }
 
